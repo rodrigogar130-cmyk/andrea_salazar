@@ -1,0 +1,39 @@
+PARA ANDREA — UNA PÁGINA ESPECIAL DE RODRIGO
+
+CONTENIDO
+  index.html       Página principal (para GitHub Pages)
+  styles.css       Diseño adaptable a celular y computadora
+  script.js        Animaciones y sistema de respuestas
+  assets/andrea.jpg Fotografía proporcionada
+
+CÓMO VERLA
+1. Descomprime el archivo ZIP.
+2. Abre index.html en tu navegador (Chrome o Edge).
+3. Desplázate hasta la sección final y prueba las cuatro respuestas.
+
+CÓMO PUBLICARLA EN GITHUB PAGES
+1. Crea un repositorio, por ejemplo "para-andrea".
+2. Sube index.html, styles.css, script.js y la carpeta assets (incluido su archivo).
+3. En GitHub entra a Settings > Pages.
+4. En Build and deployment elige Deploy from a branch, rama main, carpeta /(root).
+5. Guarda. La dirección suele ser https://TUUSUARIO.github.io/para-andrea/
+   (GitHub te mostrará el enlace concreto cuando termine el despliegue).
+
+RESPUESTAS
+- Andrea puede elegir «Sí, quiero estar contigo, Rodrigo», hablar, pedir tiempo o decir que no.
+- Se prepara un texto editable y un enlace al chat de Rodrigo en WhatsApp (+52 722 512 3478).
+- No se envía ninguna respuesta de manera automática.
+- No hay base de datos ni recolección de datos personales.
+- Para que el mensaje te llegue, Andrea debe pulsar «Abrir en WhatsApp» y confirmar el envío; nunca se envía automáticamente.
+
+IMPORTANTE SOBRE PRIVACIDAD
+Los repositorios públicos y las páginas de GitHub Pages son accesibles por Internet.
+Noindex es sólo una solicitud para buscadores, no una garantía de privacidad.
+Antes de difundir el sitio públicamente, asegúrate de tener permiso para usar la foto de Andrea.
+
+PERSONALIZACIONES
+Puedes editar el texto de la carta en index.html; las opciones y mensajes de respuesta
+están en script.js. Puedes cambiar la fotografía sustituyendo assets/andrea.jpg
+por otra con el mismo nombre.
+
+No es necesario configurar servidores, cuentas ni bases de datos.
